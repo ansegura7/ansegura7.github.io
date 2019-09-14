@@ -1,12 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Code and Family
+subtitle: Code and family
 ---
 
-<img width="300" alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-icon-ast.png">
-
-My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela. I'm a Computer and information engineer, with more than 10 years of experience creating robust and high impact software solutions.
+<table>
+	<tr>
+		<td width="200"><img alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-icon-ast.png"></td>
+		<td>My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela. I'm a Computer and information engineer, with more than 10 years of experience creating robust and high impact software solutions.</td>
+	</tr>
+</table>
 
 My research interests are in:
 - Data Compression
