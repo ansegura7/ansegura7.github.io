@@ -4,12 +4,9 @@ title: About me
 subtitle: Code and family
 ---
 
-<table>
-	<tr style="border:none;">
-		<td style="border:none; padding:0px" width="200"><img alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-icon-ast.png"></td>
-		<td style="border:none; vertical-align:top;">My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela.<br/>I'm a Computer and Information engineer, with more than 10 years of experience creating robust and high impact software solutions.</td>
-	</tr>
-</table>
+<img width="100%" alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-wide-icon-ast.png">
+
+My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela. I'm a Computer and Information engineer, with more than 10 years of experience creating robust and high impact software solutions.
 
 My research interests are in:
 - Data Compression
@@ -20,7 +17,7 @@ My research interests are in:
 - Text Processing
 - NLP
 - Cloud Computing
-- DataViz  
+- Data Viz  
 
 and my favorite programming languages are:
 - Python
