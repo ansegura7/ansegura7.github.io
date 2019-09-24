@@ -4,7 +4,7 @@ title: About me
 subtitle: Code and family
 ---
 
-<img width="100%" alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-wide-icon-ast.png">
+<img width="100%" alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-wide-icon-ast.jpg" >
 
 My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela. I'm a Computer and Information engineer, with more than 10 years of experience creating robust and high impact software solutions.
 
