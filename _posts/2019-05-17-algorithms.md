@@ -12,9 +12,11 @@ comments: true
 Repository with the implementation (in Python) and description of several computational, mathematical and statistical algorithms.
 
 Algorithms
-1. Probabilistic Algorithms
-2. Similarity Functions
-3. Chaotic Systems
-4. Cellular Automata
+1. Algorithm's Basics
+2. Graphs
+3. Probabilistic Algorithms
+4. Similarity Functions
+5. Chaotic Systems
+6. Cellular Automata
 
 Click [here](https://ansegura7.github.io/Algorithms/) to see the project.
