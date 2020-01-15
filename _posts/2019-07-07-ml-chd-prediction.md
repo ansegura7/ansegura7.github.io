@@ -3,7 +3,7 @@ layout: post
 title: Prediction of CHD Risk with R
 subtitle: CHD Risk Prediction based on Supervised Learning
 gh-url: https://ansegura7.github.io/ML_CHD_Prediction/
-gh-repo: ansegura7/RS_Surprise
+gh-repo: ansegura7/ML_CHD_Prediction
 gh-badge: [star, fork, follow]
 tags: [r, machine-learning, supervised-learning, data-science, naive-bayes, svm, random-forest, decision-trees, knn, chd-risk]
 comments: true

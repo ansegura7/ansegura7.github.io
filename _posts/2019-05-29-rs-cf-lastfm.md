@@ -3,7 +3,7 @@ layout: post
 title: A Recommender Systems for Last.fm
 subtitle: Recommendation system with collaborative filtering
 gh-url: https://ansegura7.github.io/RS_CF_LastFm/
-gh-repo: ansegura7/RS_Surprise
+gh-repo: ansegura7/RS_CF_LastFm
 gh-badge: [star, fork, follow]
 tags: [recommender-system, java, mahout, knn, model-tuning]
 comments: true

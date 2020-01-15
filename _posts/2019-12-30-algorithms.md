@@ -3,7 +3,7 @@ layout: post
 title: Algorithms
 subtitle: Computational, mathematical and statistical algorithms
 gh-url: https://ansegura7.github.io/Algorithms/
-gh-repo: ansegura7/RS_Surprise
+gh-repo: ansegura7/Algorithms
 gh-badge: [star, fork, follow]
 tags: [python, computer-science, statistics, montecarlo-simulation, similarity-measures, chaotic-systems, cellular-automata, prime-numbers, fractals, graph, dijkstra-algorithm, networkx]
 comments: true
