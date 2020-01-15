@@ -341,12 +341,12 @@ footer .theme-by {
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 16px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -413,7 +413,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .blog-tags {
-    margin-top: 10px;
+    margin-top: 15px;
   }
 }
 
