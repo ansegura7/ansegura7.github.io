@@ -17,7 +17,7 @@ layout: null
         </description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ post.url | absolute_url }}</link>
-		<url>{{ post.gh-url }}</url>
+        <url>{{ post.gh-url }}</url>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       </item>
     {% endfor %}
