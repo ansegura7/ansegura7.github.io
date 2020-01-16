@@ -9,15 +9,14 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.gh-url }}" target="_blank">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
+	    <h2 class="post-title">{{ post.title }}</h2>
+    </a>
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
-	  {% endif %}
-    </a>
-
+    {% endif %}
+    
     <p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
     </p>
