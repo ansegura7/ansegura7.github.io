@@ -4,7 +4,7 @@ title: A Recommender Systems with Surprise
 subtitle: Recommendation system with collaborative filtering
 gh-url: https://ansegura7.github.io/RS_Surprise/
 gh-repo: ansegura7/RS_Surprise
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [recommender-system, python, surprise, svd, knn, model-tuning]
 comments: true
 ---

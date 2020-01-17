@@ -4,7 +4,7 @@ title: NLP with Python
 subtitle: Natural Language Processing project with Python frameworks
 gh-url: https://ansegura7.github.io/NLP/
 gh-repo: ansegura7/NLP
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [python, nlp, text-processing, spacy, gensim, word2vec, wordcloud, spellchecker]
 comments: true
 ---

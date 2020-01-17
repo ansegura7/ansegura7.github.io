@@ -4,7 +4,7 @@ title: Data Compression
 subtitle: Project in which different algorithms and approaches of compression and decompression of data are explored
 gh-url: https://ansegura7.github.io/DataCompression/
 gh-repo: ansegura7/DataCompression
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [python, compression, entropy, huffman-coding, decoder]
 comments: true
 ---

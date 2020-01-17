@@ -4,7 +4,7 @@ title: Visual Analytics Final Project
 subtitle: Illustrates the way in which the problem was approached from a perspective of the Visual Analytics field
 gh-url: https://ansegura7.github.io/VA_FinalProject_MOOC/
 gh-repo: ansegura7/VA_FinalProject_MOOC
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [dataviz, data-analytics, javascript, d3js, linechart, barchart, maps]
 comments: true
 ---

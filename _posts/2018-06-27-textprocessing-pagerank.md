@@ -4,7 +4,7 @@ title: Text Processing & PageRank
 subtitle: A practical example of the use of PageRank and TF-IDF algorithms
 gh-url: https://ansegura7.github.io/TextProcessing_PageRank/
 gh-repo: ansegura7/TextProcessing_PageRank
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [text-processing, pagerank, tf-idf, mrr, java]
 comments: true
 ---

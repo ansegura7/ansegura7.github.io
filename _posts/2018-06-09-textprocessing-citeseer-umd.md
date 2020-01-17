@@ -4,7 +4,7 @@ title: Text Processing of CiteSeer UMD
 subtitle: Calculation of the keywords of a set of documents
 gh-url: https://ansegura7.github.io/TextProcessing_CiteSeerUMD/
 gh-repo: ansegura7/TextProcessing_CiteSeerUMD
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [text-processing, tf-idf, stemming, lemmatization, tokenization, stopwords, java]
 comments: true
 ---

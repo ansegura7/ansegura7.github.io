@@ -4,7 +4,7 @@ title: Objectivity Detection with R
 subtitle: Detection of objectivity in sports articles, based on co-training
 gh-url: https://ansegura7.github.io/ML_ObjectivityDetection/
 gh-repo: ansegura7/ML_ObjectivityDetection
-gh-badge: [star, fork, follow]
+gh-badge: [watch, star, fork, follow]
 tags: [r, machine-learning, co-training, data-analytics, objectively-detection, tf-idf, sports-articles]
 comments: true
 ---
