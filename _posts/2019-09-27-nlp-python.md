@@ -11,11 +11,11 @@ comments: true
 
 Natural Language Processing project with Python frameworks. NLP is a discipline where computer science, artificial intelligence and cognitive logic are intercepted, with the objective that machines can read and understand our language for decision making.
 
-Examples:
+### Examples:
 - NLP with spaCy
 - Semantic Enrichment of Entities
 - Spell Checker/Corrector
 - Word Embedding with Gensim
 - Relationship between Words
 
-Click [here](https://ansegura7.github.io/NLP/) to see the project.
+Click [here](https://ansegura7.github.io/NLP/) to see the project and the repository.

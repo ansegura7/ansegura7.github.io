@@ -11,7 +11,7 @@ comments: true
 
 Data Science Project to analyze and discover insights of the attributes of each player registered in the latest edition of FIFA 19 database. Most of the project was done with Jupyter Notebook, so that the reader can see and understand the code implemented.
 
-Analysis Performed:
+### Analysis Performed:
 1. Exploration and Profiling
 2. Querying Data
 3. Principal Component Analysis
@@ -19,4 +19,4 @@ Analysis Performed:
 5. Analysis of Similarity
 6. Networks and Force System
 
-Click [here](https://ansegura7.github.io/DataScience_FIFA19Data/) to see the project.
+Click [here](https://ansegura7.github.io/DataScience_FIFA19Data/) to see the project and the repository.

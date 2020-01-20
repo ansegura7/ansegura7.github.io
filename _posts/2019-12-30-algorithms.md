@@ -21,4 +21,4 @@ In mathematics and computer science, an algorithm is a finite sequence of well-d
 5. Chaotic Systems
 6. Cellular Automata
 
-Click [here](https://ansegura7.github.io/Algorithms/) to see the project.
+Click [here](https://ansegura7.github.io/Algorithms/) to see the project and the repository.
