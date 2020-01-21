@@ -11,4 +11,4 @@ comments: true
 
 Recommendation system with collaborative filtering created with Apache Mahout. The system uses a Music Recommendation Dataset for Research as input, but you can train it and predict recommendations with any other dataset. This project explores the calibration and accuracy of user-based and item-based models.
 
-Click [here](https://ansegura7.github.io/RS_CF_LastFm/) to see the project.
+Click [here](https://ansegura7.github.io/RS_CF_LastFm/) to see the project and the repository.

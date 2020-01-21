@@ -16,4 +16,4 @@ Examples:
 - RS with SVD
 - Tune model (SVD)
 
-Click [here](https://ansegura7.github.io/RS_Surprise/) to see the project.
+Click [here](https://ansegura7.github.io/RS_Surprise/) to see the project and the repository.

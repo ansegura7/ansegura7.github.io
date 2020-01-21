@@ -15,4 +15,4 @@ Hence the great need to analyze the data in order to obtain some benefit for the
 
 Hopeful and convincing results were obtained, which can be improved if there is a greater amount of source data from which to learn.
 
-Click [here](https://ansegura7.github.io/ML_CHD_Prediction/) to see the project.
+Click [here](https://ansegura7.github.io/ML_CHD_Prediction/) to see the project and the repository.

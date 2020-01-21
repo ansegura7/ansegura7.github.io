@@ -15,4 +15,4 @@ In the present work, we perform a detection analysis of objectivity to a set of 
 
 The results obtained were very encouraging, since the SL approach generated better results for the original tagged file (precision close to 82.9%), while the SSL approach using Co-Training, generated better results for the dataset created with the own algorithm, with accuracy close to 74.4% using 50% of the data tagged for SSL.
 
-Click [here](https://ansegura7.github.io/ML_ObjectivityDetection/) to see the project.
+Click [here](https://ansegura7.github.io/ML_ObjectivityDetection/) to see the project and the repository.
