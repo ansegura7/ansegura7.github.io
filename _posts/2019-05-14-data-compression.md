@@ -11,7 +11,7 @@ comments: true
 
 Project in which we explore different algorithms and compression approaches such as Huffman coding or entropy change. The distribution of the symbols of the compressed files (image, electronic book, etc.) is also analyzed.
 
-Examples:
+### Examples:
 - Symbols Distribution
 - Text Compression
 - File Compression

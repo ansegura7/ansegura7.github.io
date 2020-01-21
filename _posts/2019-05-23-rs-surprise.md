@@ -11,7 +11,7 @@ comments: true
 
 Project with examples of different recommendation system created with the Surprise framework. With a collaborative filtering approach, different algorithms are explored, such as KNN or SVD.
 
-Examples:
+### Examples:
 - RS with KNN
 - RS with SVD
 - Tune model (SVD)
