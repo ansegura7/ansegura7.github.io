@@ -13,4 +13,4 @@ Program that preprocesses a collection of documents to calculate the frequency o
 
 The project name is: HW1_TextProcess and it was created using the Eclipse IDE. The program solves all the questions in a single execution (run).
 
-Click [here](https://ansegura7.github.io/TextProcessing_CiteSeerUMD/) to see the project.
+Click [here](https://ansegura7.github.io/TextProcessing_CiteSeerUMD/) to see the project and the repository.

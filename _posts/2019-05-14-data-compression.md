@@ -17,4 +17,4 @@ Examples:
 - File Compression
 - Compression & Entropy
 
-Click [here](https://ansegura7.github.io/DataCompression/) to see the project.
+Click [here](https://ansegura7.github.io/DataCompression/) to see the project and the repository.

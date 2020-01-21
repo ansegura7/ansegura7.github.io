@@ -15,4 +15,4 @@ The project name is: HW2_PageRank and it was created using the Eclipse IDE. The 
 
 For point 1, a directed graph was used (using a hash table and adjacency lists as data structures). For point 2 and 2', a function was created that returns the PageRank scores per word by document. For point 3, a parameterized function was created that generates both unigrams and n-grams. For point 4, a function was created that calculates the MRR from a list of proposed n-grams and the phrases available in the gold-standard files. For point 5, a function was created that calculates the TF-IDF scores for each word of each abstract document and then calculates the MRR score to the proposed n-grams.
 
-Click [here](https://ansegura7.github.io/TextProcessing_PageRank/) to see the project.
+Click [here](https://ansegura7.github.io/TextProcessing_PageRank/) to see the project and the repository.
