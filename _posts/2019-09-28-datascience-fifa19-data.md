@@ -19,4 +19,6 @@ Data Science Project to analyze and discover insights of the attributes of each 
 5. Analysis of Similarity
 6. Networks and Force System
 
+![PCA Plot](https://raw.githubusercontent.com/ansegura7/DataScience_FIFA19Data/master/images/pca-results.jpg)
+
 Click [here](https://ansegura7.github.io/DataScience_FIFA19Data/) to see the project and the repository.
