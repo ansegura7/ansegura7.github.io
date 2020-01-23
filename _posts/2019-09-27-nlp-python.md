@@ -18,4 +18,6 @@ Natural Language Processing project with Python frameworks. NLP is a discipline 
 - Word Embedding with Gensim
 - Relationship between Words
 
+![NLP Header](https://raw.githubusercontent.com/ansegura7/NLP/master/image/header.jpg)
+
 Click [here](https://ansegura7.github.io/NLP/) to see the project and the repository.
