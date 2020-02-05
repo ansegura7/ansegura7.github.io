@@ -15,10 +15,12 @@ Repository with the implementation (in Python) and description of several comput
 In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.
 
 1. Algorithm's Basics
-2. Graphs
-3. Probabilistic Algorithms
-4. Similarity Functions
-5. Chaotic Systems
-6. Cellular Automata
+2. Divide and Conquer
+3. Graphs
+4. Dynamic Programming
+5. Probabilistic Algorithms
+6. Similarity Functions
+7. Chaotic Systems
+8. Cellular Automata
 
 Click [here](https://ansegura7.github.io/Algorithms/) to see the project and the repository.
