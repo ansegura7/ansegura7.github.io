@@ -57,14 +57,14 @@ use-site-title: true
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Projects</a>
-  </li>
-  {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Projects &rarr;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">&larr; Older Projects</a>
+  </li>
+  {% endif %}
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">Newer Projects &rarr;</a>
   </li>
   {% endif %}
 </ul>
