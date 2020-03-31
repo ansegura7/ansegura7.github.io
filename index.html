@@ -58,12 +58,12 @@ use-site-title: true
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.next_page %}
-  <li class="next">
+  <li class="previous">
     <a href="{{ paginator.next_page_path | relative_url }}">&larr; Older Projects</a>
   </li>
   {% endif %}
   {% if paginator.previous_page %}
-  <li class="previous">
+  <li class="next">
     <a href="{{ paginator.previous_page_path | relative_url }}">Newer Projects &rarr;</a>
   </li>
   {% endif %}
