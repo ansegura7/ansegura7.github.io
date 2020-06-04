@@ -5,7 +5,7 @@ subtitle: Analysis of a Twitter account and its content
 gh-url: https://ansegura7.github.io/TwitterAnalytics/
 gh-repo: ansegura7/TwitterAnalytics
 gh-badge: [watch, star, fork, follow]
-tags: [python, twitter, tweepy-api, dataviz, data-analysis, web-mining, sentiment-analysis]
+tags: [python, twitter, tweepy-api, dataviz, data-analytics, web-mining, sentiment-analysis]
 comments: true
 ---
 

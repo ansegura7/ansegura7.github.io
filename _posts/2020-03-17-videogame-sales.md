@@ -5,7 +5,7 @@ subtitle: By platform and genre in the last 4 decades
 gh-url: https://ansegura7.github.io/DataViz_VideoGameSales/
 gh-repo: ansegura7/DataViz_VideoGameSales
 gh-badge: [watch, star, fork, follow]
-tags: [python, dataviz, data-analysis, videogames, sales]
+tags: [python, dataviz, data-analytics, videogames, sales]
 comments: true
 ---
 
