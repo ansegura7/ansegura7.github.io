@@ -9,6 +9,6 @@ tags: [recommender-system, java, mahout, knn, model-tuning]
 comments: true
 ---
 
-Recommender systems with collaborative filtering created with Apache Mahout framework. The system uses a Music Recommendation Dataset for Research as input, but you can train it and predict recommendations with any other dataset. This project explores the calibration and accuracy of user-based and item-based models.
+Recommender systems with collaborative filtering created with Apache Mahout framework. The system uses a Music Recommendation dataset for research purposes as input, but you can train it and predict recommendations with any other dataset. This project explores the calibration and accuracy of user-based and item-based models.
 
 Click [here](https://ansegura7.github.io/RS_CF_LastFm/) to see the project and the repository.
