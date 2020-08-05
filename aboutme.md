@@ -9,11 +9,11 @@ subtitle: Code and family
 My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela and I have more than 10 years of experience creating intelligent, robust and high impact software solutions. I received a Master's in Information Engineering from <a href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Universidad de los Andes</a>. I did my bachelor in Computer Science at Universidad de Oriente.
 
 My research interests are in:
-- Data Compression
 - Data Science
 - Machine Learning
-- Deep Learning
+- Recommender Systems
 - Big Data
+- Data Compression
 - Text Processing
 - NLP
 - Cloud Computing
@@ -25,6 +25,7 @@ and my favorite programming languages are:
 - \[C#, VB\].NET
 - JavaScript
 - R
+- SQL
 
 ### More about me
 
