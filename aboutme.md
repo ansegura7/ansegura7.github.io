@@ -8,7 +8,7 @@ subtitle: Code and family
 
 My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezuela and I have over 11 years of experience working on data analytics projects and creating robust and high-impact software solutions in global teams.
 
-Currently, I am CS PhD student at <a href="https://uam.es/" target="_blank">Universidad Autónoma de Madrid</a>. I received a Master's in Information Engineering from <a href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Universidad de los Andes</a>. I did my bachelor in Computer Science at Universidad de Oriente.
+Currently, I am CS PhD student at <a href="http://www.uam.es/EscuelaDoctorado/Programa-de-Doctorado-en-Ingenier%C3%ADa-Inform%C3%A1tica-/1446711329597.htm?language=en_GB&nDept=2&pid=1446711296967&pidDept=1446711297278" target="_blank">Universidad Autónoma de Madrid</a>. I received a Master's in Information Engineering from <a href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Universidad de los Andes</a>. I did my bachelor in Computer Science at Universidad de Oriente.
 
 My research interests are in:
 - XAI
