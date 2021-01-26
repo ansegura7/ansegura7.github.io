@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Code and family
+subtitle: Code, family and teaching
 ---
 
 <img width="100%" alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-wide-icon-ast.jpg" >
@@ -31,6 +31,7 @@ and my favorite programming languages are:
 ### More about me
 
 Senior Software Developer at <a href="http://ovsgroup.com/" target="_blank">OVS Group</a>  
+Lecturer of the course "Introduction to Programming", Department of Systems and Computing Engineering, at <a href="https://uniandes.edu.co/" target="_blank">Universidad de los Andes</a>.  
 Master of Information Engineering  
 Data Mining Expert  
 Computer Engineer
