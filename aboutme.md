@@ -10,15 +10,15 @@ My name is Andres Segura Tinoco. I was born in Colombia and I grew up in Venezue
 
 Currently, I am Computer Science PhD student at <a href="http://www.uam.es/EscuelaDoctorado/Programa-de-Doctorado-en-Ingenier%C3%ADa-Inform%C3%A1tica-/1446711329597.htm?language=en_GB&nDept=2&pid=1446711296967&pidDept=1446711297278" target="_blank">Universidad Autónoma de Madrid</a>. I received a Master's in Information Engineering from <a href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Universidad de los Andes</a>. I did my bachelor in Computer Science at Universidad de Oriente.
 
-My research interests are in:
-- XAI
-- Machine Learning
+My research interests are in the fields of:
+- Explainable Artificial Intelligence (XAI)
+- Machine Learning and Deep Learning
 - Recommender Systems
-- Big Data
-- Data Science
 - NLP
+- Data Science
+- Big Data
 - Data Compression
-- Data Viz  
+- Data Viz
 
 and my favorite programming languages are:
 - Python
