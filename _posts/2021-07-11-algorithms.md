@@ -16,6 +16,7 @@ Although it is not intended to have the formal rigor of a book, we tried to be a
 ### Algorithm
 In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.
 
+### Content
 1. Algorithm's Basics
 2. Divide and Conquer
 3. Graphs

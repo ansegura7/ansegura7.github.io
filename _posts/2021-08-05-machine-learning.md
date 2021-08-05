@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning Course
-subtitle: Starting from Data Science offers examples (with Python code) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP
+subtitle: Machine Learning, Deep Learning and NLP
 gh-url: https://ansegura7.github.io/MachineLearning/
 gh-repo: ansegura7/MachineLearning
 gh-badge: [watch, star, fork, follow]
@@ -14,9 +14,9 @@ Free hands-on and interactive course in Python, which starting from Data Science
 Although it is not intended to have the formal rigor of a book, we tried to be as faithful as possible to the original algorithms and methods, only adding variants, when these were necessary for didactic purposes.
 
 ### Content
-- Data Science
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
+1. Data Science
+2. Machine Learning
+3. Deep Learning
+4. Natural Language Processing
 
 Click [here](https://ansegura7.github.io/MachineLearning/) to see the project and the repository.
