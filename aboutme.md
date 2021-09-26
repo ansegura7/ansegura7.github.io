@@ -5,7 +5,7 @@ subtitle: Code, family and teaching
 ---
 
 <div>
-    <img alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-icon-ast.png" style="width:350px; float:right; margin-left:10px; margin-bottom:15px;" >
+    <img alt="Andres Segura Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-icon-ast.jpg" style="width:350px; float:right; margin-left:10px; margin-bottom:15px;" >
     <p>My name is Andres Segura Tinoco. I was born in Colombia and grew up in Venezuela, and have more than 12 years of experience working on data analysis projects and creating intelligent and high-impact software solutions in global teams in the USA, Mexico, Spain, and Malaysia.</p>
     <p>I earned my bachelor’s degree in Computer Science from Universidad de Oriente, Venezuela, and in 2019, I received a master’s degree in Information Engineering from <a href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Universidad de los Andes</a>, Colombia.</p>
 </div>
