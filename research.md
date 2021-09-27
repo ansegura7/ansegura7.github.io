@@ -8,7 +8,7 @@ Here are some of my latest research work:
 
 - Andrés Segura-Tinoco. 2021. <a href="https://dl.acm.org/doi/10.1145/3460231.3473894" target="_blank">Argument-based generation and explanation of recommendations</a>. In Fifteenth ACM Conference on Recommender Systems (RecSys '21). Association for Computing Machinery, New York, NY, USA, 845–850.
 
-- <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2021. <a href="#">On the extraction and use of arguments in recommender
+- <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2021. <a href="https://github.com/ansegura7/ansegura7.github.io/blob/master/_papers/kars%26complexrec2021.pdf" target="_blank">On the extraction and use of arguments in recommender
 systems: A case study in the e-participation domain</a>. Proceedings of the 3rd Edition of Knowledge-aware and Conversational Recommender Systems (KaRS) & 5th Edition of Recommendation in Complex Environments (ComplexRec) Joint Workshop @ RecSys 2021, September 27–1 October 2021, Amsterdam, Netherlands.
 
 - <b>Andrés Segura-Tinoco</b>, Vladimir E. Cuevas, Marly J. Piedrahita and William Rojas. 2019. <a href="#">Proof of concept of the feasibility of creating a model that uses Machine Learning techniques to generate virtual metering for oil wells</a>. As master's thesis in information engineering at Universidad de los Andes, Bogotá, Colombia.
