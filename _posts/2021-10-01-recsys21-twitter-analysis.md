@@ -5,7 +5,7 @@ subtitle: Twitter Analytics
 gh-url: https://ansegura7.github.io/recsys-tweet-analysis/
 gh-repo: ansegura7/recsys-tweet-analysis
 gh-badge: [watch, star, fork, follow]
-tags: [python, twitter, tweepy-api, dataviz, data-analytics, recsys2021, networks]
+tags: [python, twitter, tweepy-api, dataviz, data-analytics, recsys2021, networks, force-layout]
 comments: true
 ---
 
