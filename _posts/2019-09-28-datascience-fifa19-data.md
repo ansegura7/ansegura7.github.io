@@ -5,7 +5,7 @@ subtitle: Visual and Data Analysis
 gh-url: https://ansegura7.github.io/DataScience_FIFA19Data/
 gh-repo: ansegura7/DataScience_FIFA19Data
 gh-badge: [watch, star, fork, follow]
-tags: [data-science, dataviz, profiling, pca, kmeans, python, pandas, d3js, network, force-layout]
+tags: [data-science, dataviz, profiling, pca, kmeans, python, pandas, d3js, networks, force-layout]
 comments: true
 ---
 
