@@ -4,7 +4,7 @@
 title: Home
 
 # Short description of your site
-description: Andres Segura website #This is the repository of my personal website
+description: Andrés Segura-Tinoco website #This is the repository of my personal website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Andres Segura Tinoco
+  name: Andrés Segura-Tinoco
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
