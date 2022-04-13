@@ -1,16 +1,16 @@
 # Personal WebSite Repository
 
 ![version](https://img.shields.io/badge/Version-Prod-blue)
-![release](https://img.shields.io/badge/Release-1.2.0-blue)
+![release](https://img.shields.io/badge/Release-1.2.2-blue)
 ![language](https://img.shields.io/badge/Language-HTML,Ruby,JavaScript-brightgreen)
-![last-update](https://img.shields.io/badge/Last_update-04/22/2021-orange)
+![last-update](https://img.shields.io/badge/Last_update-04/13/2022-orange)
 
 This is the current version of my personal [website](https://ansegura7.github.io).
 
 It was created with the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) template.
 
 ## Contributing and Feedback
-Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).
+Any kind of feedback/suggestions would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...). If you want to make a contribution to the course you can do it through a PR.
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the <a href="https://github.com/ansegura7/ansegura7.github.io/blob/master/LICENSE">MIT license</a>.
