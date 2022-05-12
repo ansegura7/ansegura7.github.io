@@ -12,8 +12,6 @@ subtitle: Code, family and teaching
 
 Currently, I am a 2nd-year Computer Science PhD student in the IRG at <a href="http://www.uam.es/EscuelaDoctorado/Programa-de-Doctorado-en-Ingenier%C3%ADa-Inform%C3%A1tica-/1446711329597.htm?language=en_GB&nDept=2&pid=1446711296967&pidDept=1446711297278" target="_blank">Universidad Autónoma de Madrid</a>. My thesis is focused on the potential intersection between argument mining and recommender systems areas.
 
-## More about me
-
 ### Research interests
 - Explainable Artificial Intelligence (XAI)
 - Recommender Systems
@@ -29,8 +27,8 @@ Currently, I am a 2nd-year Computer Science PhD student in the IRG at <a href="h
 - Java
 - \[C#, VB\].NET
 - JavaScript
-- R
-- SQL
+- R - Certificates: <a href="https://www.dropbox.com/s/fd02z2zn4qjaw0a/10.%20Diploma%20Final.pdf?dl=0" target="_blank">Promidat</a>
+- SQL - Certificates: <a href="https://www.credly.com/badges/09061afa-4473-448b-826d-a12a4032a035/linked_in_profile" target="_blank">Microsoft</a> and <a href="https://www.hackerrank.com/certificates/93c0819ebb4e" target="_blank">HackerRank</a>
 
 ### Education
 - 2nd-year Computer Science PhD student at the Universidad Autónoma de Madrid, Spain
