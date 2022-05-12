@@ -6,13 +6,15 @@ subtitle: Code, family and teaching
 
 <div>
     <img alt="Andrés Segura-Tinoco image" src="https://raw.githubusercontent.com/ansegura7/ansegura7.github.io/master/img/avatar-icon-ast.jpg" style="width:350px; float:right; margin-left:10px; margin-bottom:15px;" >
-    <p>My name is Andrés Segura-Tinoco. I was born in Colombia and grew up in Venezuela, and have more than 12 years of experience working on data analysis projects and creating intelligent and high-impact software solutions in global teams in the USA, Mexico, Spain, and Malaysia.</p>
+    <p>My name is Andrés Segura-Tinoco. I was born in Colombia and grew up in Venezuela, and have more than 13 years of experience working on data analysis projects and creating intelligent and high-impact software solutions in global teams in the USA, Mexico, Spain, and Malaysia.</p>
     <p>I earned my bachelor’s degree in Computer Science from Universidad de Oriente, Venezuela, and in 2019, I received a master’s degree in Information Engineering from <a href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Universidad de los Andes</a>, Colombia.</p>
 </div>
 
 Currently, I am a 2nd-year Computer Science PhD student in the IRG at <a href="http://www.uam.es/EscuelaDoctorado/Programa-de-Doctorado-en-Ingenier%C3%ADa-Inform%C3%A1tica-/1446711329597.htm?language=en_GB&nDept=2&pid=1446711296967&pidDept=1446711297278" target="_blank">Universidad Autónoma de Madrid</a>. My thesis is focused on the potential intersection between argument mining and recommender systems areas.
 
-Therefore, my research interests are in the fields of:
+## More about me
+
+### Research interests
 - Explainable Artificial Intelligence (XAI)
 - Recommender Systems
 - Machine Learning and Deep Learning
@@ -22,7 +24,7 @@ Therefore, my research interests are in the fields of:
 - Data Compression
 - Data Viz
 
-and my favorite programming languages are:
+### Favorite programming languages
 - Python
 - Java
 - \[C#, VB\].NET
@@ -30,12 +32,18 @@ and my favorite programming languages are:
 - R
 - SQL
 
-### More about me
-Latest works:
-- Research Student at UAM
-- Senior Software Developer at <a href="http://ovsgroup.com/" target="_blank">OVS Group</a>  
-- Lecturer of the course "Introduction to Programming", Department of Systems and Computing Engineering, at <a href="https://uniandes.edu.co/" target="_blank">Universidad de los Andes</a>. Spring 2021 and Fall 2021.
+### Education
+- 2nd-year Computer Science PhD student at the Universidad Autónoma de Madrid, Spain
+- MSc, Information Engineering, Universidad de los Andes, Colombia
+- BSc, Computer Engineering, Universidad de Oriente, Venezuela
 
-Master of Information Engineering  
-Data Mining Expert  
-Computer Engineer
+### Work experience
+- 2021 - current: Research Student at UAM
+- 2021: Lecturer of the course "Introduction to Programming", Department of Systems and Computing Engineering, at <a href="https://uniandes.edu.co/" target="_blank">Universidad de los Andes</a>. Spring and Fall
+- 2018 - current: Senior Software Developer at <a href="http://ovsgroup.com/" target="_blank">OVS Group</a> (part time)
+- 2009 - 2018: Senior Engineering Consultant at <a href="http://ovsgroup.com/" target="_blank">OVS Group</a>
+
+### Awards and fellowships
+- PhD: FPI 2021 Fellowship (Research Personnel Training)
+- MSc: Graduated 1st in class and graduation student speaker
+- BSc: Graduated 1st in class
