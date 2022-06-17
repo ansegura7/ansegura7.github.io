@@ -6,9 +6,9 @@ subtitle: Publications and research projects
 
 ## Selected publications
 
-- <b>Andrés Segura-Tinoco</b>, Óscar G. Borzdynski, and Iván Cantador. 2022. <a href="https://github.com/argrecsys/arg-miner/blob/main/papers/dgo22/dgo22-paper.pdf" target="_blank">An Argument-based Search Framework: Implementation on a Spanish Corpus in the E-Participation Domain</a>. In the Joint Conference of the Information Retrieval Communities in Europe (CIRCLE 2022), July 4-7, 2022, Toulouse, France.
+- <b>Andrés Segura-Tinoco</b>, Óscar G. Borzdynski, and Iván Cantador. 2022. <a href="https://github.com/argrecsys/arg-ir-tool/blob/main/papers/circle22-paper-two-cols.pdf" target="_blank">An Argument-based Search Framework: Implementation on a Spanish Corpus in the E-Participation Domain</a>. In the Joint Conference of the Information Retrieval Communities in Europe (CIRCLE 2022), July 4-7, 2022, Toulouse, France.
 
-- <b>Andrés Segura-Tinoco</b>, Andrés Holgado-Sánchez, Iván Cantador, María E. Cortés-Cediel, and Manuel Pedro Rodríguez-Bolívar. 2022. <a href="https://github.com/argrecsys/arg-miner/blob/main/papers/dgo22/dgo22-paper.pdf" target="_blank">A Conversational Agent for Argument-driven E-participation</a>. In dg.o '22: The 23rd Annual International Conference on Digital Government Research, June 15–17, 2022, Seoul, South Korea. ACM, New York, NY, USA, 22 pages.
+- <b>Andrés Segura-Tinoco</b>, Andrés Holgado-Sánchez, Iván Cantador, María E. Cortés-Cediel, and Manuel Pedro Rodríguez-Bolívar. 2022. <a href="https://github.com/argrecsys/arg-miner/blob/main/papers/dgo22/dgo22-paper.pdf" target="_blank">A Conversational Agent for Argument-driven E-participation</a>. In dg.o '22: The 23rd Annual International Conference on Digital Government Research, June 15–17, 2022, Seoul, South Korea. ACM, New York, NY, USA, 22 pages. <b>Best Research Paper Award</b>.
 
 - Andrés Segura-Tinoco. 2021. <a href="https://dl.acm.org/doi/10.1145/3460231.3473894" target="_blank">Argument-based generation and explanation of recommendations</a>. In Fifteenth ACM Conference on Recommender Systems (RecSys '21). Association for Computing Machinery, New York, NY, USA, 845–850.
 

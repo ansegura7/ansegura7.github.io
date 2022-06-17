@@ -39,7 +39,7 @@ Currently, I am a 2nd-year Computer Science PhD student in the IRG at <a href="h
 - 2021 - current: Research Student at UAM
 - 2021: Lecturer of the course "Introduction to Programming", Department of Systems and Computing Engineering, at <a href="https://uniandes.edu.co/" target="_blank">Universidad de los Andes</a>. Spring and Fall
 - 2018 - current: Senior Software Developer at <a href="http://ovsgroup.com/" target="_blank">OVS Group</a> (part time)
-- 2009 - 2018: Senior Engineering Consultant at <a href="http://ovsgroup.com/" target="_blank">OVS Group</a>
+- 2009 - 2018: Senior Engineering Consultant at OVS Group
 
 ### Awards and fellowships
 - PhD: FPI 2021 Fellowship (Research Personnel Training)
