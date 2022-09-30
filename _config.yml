@@ -24,6 +24,7 @@ navbar-links:
   Code: "https://github.com/ansegura7"
   Research: "research"
   GScholar: "https://scholar.google.com/citations?user=ncdciAMAAAAJ&hl=en"
+  SScholar: https://www.semanticscholar.org/author/Andr%C3%A9s-Segura-Tinoco/2126509421
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -78,7 +79,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/seguraandres7
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -90,6 +91,7 @@ share-links-active:
   twitter: true
   github: true
   linkedin: true
+  youtube: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
