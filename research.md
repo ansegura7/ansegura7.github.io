@@ -6,6 +6,8 @@ subtitle: Publications and research projects
 
 ## Selected publications
 
+- <b>Andrés Segura-Tinoco</b>, Iván Cantador. 2023. <a href="https://www.sciencedirect.com/science/article/pii/S2352711023001061" target="_blank">ARGAEL: ARGument Annotation and Evaluation tooL</a>. In SoftwareX, Volume 23, 2023, 101410, ISSN 2352-7110, https://doi.org/10.1016/j.softx.2023.101410.
+
 - <b>Andrés Segura-Tinoco</b>, Óscar G. Borzdynski, and Iván Cantador. 2022. <a href="https://github.com/argrecsys/arg-ir-tool/blob/main/papers/circle22-paper-two-cols.pdf" target="_blank">An Argument-based Search Framework: Implementation on a Spanish Corpus in the E-Participation Domain</a>. In the Joint Conference of the Information Retrieval Communities in Europe (CIRCLE 2022), July 4-7, 2022, Toulouse, France.
 
 - <b>Andrés Segura-Tinoco</b>, Andrés Holgado-Sánchez, Iván Cantador, María E. Cortés-Cediel, and Manuel Pedro Rodríguez Bolívar. 2022. <a href="https://dl.acm.org/doi/10.1145/3543434.3543447" target="_blank">A Conversational Agent for Argument-driven E-participation</a>. In DG.O 2022: The 23rd Annual International Conference on Digital Government Research (dg.o 2022). Association for Computing Machinery, New York, NY, USA, 191–205. <b>Best Research Paper Award</b>.
