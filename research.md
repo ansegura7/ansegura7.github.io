@@ -6,17 +6,23 @@ subtitle: Publications and research projects
 
 ## Selected publications
 
+### 2023
+
+- <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2023. <a href="#">Dimensionality Reduction for Machine Learning-based Argument Mining</a>. In 10th Workshop on Argument Mining @ EMNLP 2023, December 7, 2023, Singapore.
+
 - María E. Cortés-Cediel, <b>Andrés Segura-Tinoco</b>, Iván Cantador, and Manuel Pedro Rodríguez Bolívar. 2023. <a href="https://www.sciencedirect.com/science/article/pii/S0740624X23000771">Trends and challenges of e-government chatbots: Advances in exploring open government data and citizen participation content</a>. In Government Information Quarterly, Volume 40, Issue 4, 101877, ISSN 0740-624X,  https://doi.org/10.1016/j.giq.2023.101877.
 
 - María del Pilar Villamil, Nubia Velasco, David Barrera, <b>Andrés Segura-Tinoco</b>, Oscar Bernal, and José Tiberio Hernández. 2023. <a href="https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-023-00316-8">Analytical reference framework to analyze non-COVID-19 events</a>. In Population Health Metrics, Volume 21, Issue 16, https://doi.org/10.1186/s12963-023-00316-8.
 
-- <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2023. <a href="#">Dimensionality Reduction for Machine Learning-based Argument Mining</a>. In 10th Workshop on Argument Mining @ EMNLP 2023, December 7, 2023, Singapore.
-
 - <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2023. <a href="https://www.sciencedirect.com/science/article/pii/S2352711023001061" target="_blank">ARGAEL: ARGument Annotation and Evaluation tooL</a>. In SoftwareX, Volume 23, 101410, ISSN 2352-7110, https://doi.org/10.1016/j.softx.2023.101410.
+
+### 2022
 
 - <b>Andrés Segura-Tinoco</b>, Óscar G. Borzdynski, and Iván Cantador. 2022. <a href="https://github.com/argrecsys/arg-ir-tool/blob/main/papers/circle22-paper-two-cols.pdf" target="_blank">An Argument-based Search Framework: Implementation on a Spanish Corpus in the E-Participation Domain</a>. In the Joint Conference of the Information Retrieval Communities in Europe (CIRCLE 2022), July 4-7, 2022, Toulouse, France.
 
 - <b>Andrés Segura-Tinoco</b>, Andrés Holgado-Sánchez, Iván Cantador, María E. Cortés-Cediel, and Manuel Pedro Rodríguez Bolívar. 2022. <a href="https://dl.acm.org/doi/10.1145/3543434.3543447" target="_blank">A Conversational Agent for Argument-driven E-participation</a>. In DG.O 2022: The 23rd Annual International Conference on Digital Government Research (dg.o 2022). Association for Computing Machinery, New York, NY, USA, 191–205. <b>Best Research Paper Award</b> 🎉
+
+### 2021
 
 - <b>Andrés Segura-Tinoco</b>. 2021. <a href="https://dl.acm.org/doi/10.1145/3460231.3473894" target="_blank">Argument-based generation and explanation of recommendations</a>. In Fifteenth ACM Conference on Recommender Systems (RecSys '21). Association for Computing Machinery, New York, NY, USA, 845–850.
 
