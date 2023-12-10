@@ -8,7 +8,7 @@ subtitle: Publications and research projects
 
 ### 2023
 
-- <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2023. <a href="#">Dimensionality Reduction for Machine Learning-based Argument Mining</a>. In 10th Workshop on Argument Mining @ EMNLP 2023, December 7, 2023, Singapore.
+- <b>Andrés Segura-Tinoco</b> and Iván Cantador. 2023. <a href="https://aclanthology.org/2023.argmining-1.9/">Dimensionality Reduction for Machine Learning-based Argument Mining</a>. In Proceedings of the 10th Workshop on Argument Mining, pages 89–99, Singapore. Association for Computational Linguistics.
 
 - María E. Cortés-Cediel, <b>Andrés Segura-Tinoco</b>, Iván Cantador, and Manuel Pedro Rodríguez Bolívar. 2023. <a href="https://www.sciencedirect.com/science/article/pii/S0740624X23000771">Trends and challenges of e-government chatbots: Advances in exploring open government data and citizen participation content</a>. In Government Information Quarterly, Volume 40, Issue 4, 101877, ISSN 0740-624X,  https://doi.org/10.1016/j.giq.2023.101877.
 
